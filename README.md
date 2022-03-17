@@ -1,5 +1,5 @@
 ## Roman Kliuiev—@romain_kliuiev
-#
+
 Hi, I'm Roman - a Big Data developer at Helix Global. I am from Ukraine 🇺🇦, livivng in Kyiv. I provide business intelligence by processing donations throughout Asia.  Previously, I worked as a freelancer, I developed bots for various individuals for Telegram and Instagram, which simplified the relationship between the company and the user.
 
 # 🔧 Technologies & Tools
