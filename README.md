@@ -11,6 +11,7 @@ Hi, I'm Roman - a Big Data developer at Helix Global. I am from Ukraine 🇺🇦
 ![Pycharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=Pycharm&logoColor=12B32B)
 ![Visual studio](https://img.shields.io/badge/-Visual%20studio-090909?style=for-the-badge&logo=visual-studio-code)
 ![Datagrip](https://img.shields.io/badge/-Datagrip-090909?style=for-the-badge&logo=Datagrip&logoColor=8C00AD)
+![GitLab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=Gitlab)
 
 # 👨‍🎓Curently learning 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=ED8B00)
