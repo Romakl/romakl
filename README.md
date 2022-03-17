@@ -1,16 +1,28 @@
-### Hi there 👋
+## Roman Kliuiev—@romain_kliuiev
+#
+Hi, I'm Roman - a Big Data developer at Helix Global. I am from Ukraine 🇺🇦, livivng in Kyiv. I provide business intelligence by processing donations throughout Asia.  Previously, I worked as a freelancer, I developed bots for various individuals for Telegram and Instagram, which simplified the relationship between the company and the user.
 
-<!--
-**Romakl/romakl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🔧 Technologies & Tools
+![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=Python)
+![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=amazon)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-090909?style=for-the-badge&logo=RabbitMQ)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=Postgresql)
+![Pycharm](https://img.shields.io/badge/-Pycharm-090909?style=for-the-badge&logo=Pycharm&logoColor=12B32B)
+![Visual studio](https://img.shields.io/badge/-Visual%20studio-090909?style=for-the-badge&logo=visual-studio-code)
+![Datagrip](https://img.shields.io/badge/-Datagrip-090909?style=for-the-badge&logo=Datagrip&logoColor=8C00AD)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨‍🎓Curently learning 
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=ED8B00)
+![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=data:image/png;base64,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)
+![React](https://img.shields.io/badge/-React%20JS-090909?style=for-the-badge&logo=React)
+![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=blue)
+# 📈 GitHub Stats
+![Github_lg](https://github-readme-stats.vercel.app/api/top-langs/?username=Romakl&theme=blue-green)
+# Get in touch
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/romainkl)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/romain_kliuiev/)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/Romainkliuiev/)
+[![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/roman-kliuiev-605a0114b)
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail)](https://mailhide.io/e/t0ToVKfS)
