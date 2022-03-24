@@ -20,7 +20,7 @@ Hi, I'm Roman - a Big Data developer at Helix Global. I am from Ukraine 🇺🇦
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=blue)
 # 📈 GitHub Stats
-![Github_lg](https://github-readme-stats.vercel.app/api/top-langs/?username=Romakl&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romakl&layout=compact&theme=github_dark&hide_title=true)
 # Get in touch
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/romainkl)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/romain_kliuiev/)
