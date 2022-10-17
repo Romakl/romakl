@@ -3,20 +3,17 @@
 Hi, I'm Roman - a Big Data developer at Helix Global. I am from Ukraine 🇺🇦, livivng in Kyiv. I provide business intelligence by processing donations throughout Asia.  Previously, I worked as a freelancer, I developed bots for various individuals for Telegram and Instagram, which simplified the relationship between the company and the user. My main specialization is web application backend development using the Spring framework. I also have experience with Python and with React.
 
 # 🔧 Technologies & Tools
-![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=Python)
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java )
+![Java](https://img.shields.io/badge/-java-090909?style=for-the-badge&logo=Java)
 ![Spring-Boot](https://img.shields.io/badge/-Spring%20Boot-090909?style=for-the-badge&logo=Spring-Boot)
-![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=amazon)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-090909?style=for-the-badge&logo=RabbitMQ)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=Postgresql)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
-
-
-# 👨‍🎓Curently learning 
-![React](https://img.shields.io/badge/-React%20JS-090909?style=for-the-badge&logo=React)
-![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=blue)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![HTML](https://img.shields.io/badge/-Redux&#8722;saga-090909?style=for-the-badge&logo=redux-saga&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS&logoColor=CC6699)
+![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=amazon)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-090909?style=for-the-badge&logo=RabbitMQ)
+![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=Python)
 # 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romakl&layout=compact&theme=github_dark&hide_title=true)
 # Get in touch
