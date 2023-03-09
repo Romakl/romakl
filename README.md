@@ -1,6 +1,8 @@
 ## Roman Kliuiev—@romain_kliuiev
 
-Hi, I'm Roman - a Big Data developer at Helix Global. I am from Ukraine 🇺🇦, livivng in Kyiv. I provide business intelligence by processing donations throughout Asia.  Previously, I worked as a freelancer, I developed bots for various individuals for Telegram and Instagram, which simplified the relationship between the company and the user. My main specialization is web application backend development using the Spring framework. I also have experience with Python and with React.
+Hi, I'm Roman - a Web3 full-stack developer from Ukraine 🇺🇦 with a passion for creating decentralized applications. I love using my technical expertise to build innovative solutions that can change the world. As a full-stack developer, I'm skilled in both front-end and back-end technologies. I'm comfortable using Next.js, as well as Spring Boot, FastApi, Node.Js and other backend technologies with Solidity. This allows me to build full-stack solutions that seamlessly integrate with Web3 technologies. 
+
+In addition to my technical skills, I pride myself on my ability to collaborate effectively with stakeholders at all levels. I believe that clear communication and strong teamwork are essential for delivering high-quality projects on time and within budget.
 
 # 🔧 Technologies & Tools
 ![Java](https://img.shields.io/badge/-java-090909?style=for-the-badge&logo=Java)
