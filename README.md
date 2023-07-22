@@ -10,7 +10,7 @@ I'm not just about coding, though. I believe in clear communication and strong t
 
 [![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=Rust&logoColor=DE4C34)](https://www.rust-lang.org/)
 [![Actix](https://img.shields.io/badge/-Actix-000000?style=for-the-badge&logo=actix&logoColor=9D1B7F)](https://actix.rs/)
-[![Anchor](https://img.shields.io/badge/-Anchor-000000?style=for-the-badge&logo=anchor&logoColor=0B6FCF)](https://project-serum.github.io/anchor/)
+[![Anchor](https://img.shields.io/badge/-Anchor-000000?style=for-the-badge&logo=anchor&logoColor=0B6FCF)](https://www.anchor-lang.com/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=00C7B7)](https://nextjs.org/)
 [![NEAR](https://img.shields.io/badge/-NEAR-000000?style=for-the-badge&logo=NEAR&logoColor=00C1DE)](https://near.org/)
 [![Solidity](https://img.shields.io/badge/-Solidity-000000?style=for-the-badge&logo=solidity&logoColor=6A4C93)](https://soliditylang.org/)
