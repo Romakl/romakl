@@ -32,3 +32,4 @@ I'm not just about coding, though. I believe in clear communication and strong t
 [![Facebook](https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/Romainkliuiev/)
 [![linkedin](https://img.shields.io/badge/-linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/roman-kliuiev-605a0114b)
 [![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](https://mailhide.io/e/t0ToVKfS)
+[![Calendly](https://img.shields.io/badge/-Book%20a%20call-000000?style=for-the-badge&logo=googlecalendar&logoColor=#4285F4)](https://calendly.com/romainkl)
