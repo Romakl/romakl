@@ -62,8 +62,6 @@ Who knew thesis defenses were tougher than coding marathons?
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=romakl&theme=react-dark&bg_color=20232a&hide_border=true" width="500px">
 </div>
 
-![snake gif](https://github.com/romakl/romakl/blob/output/github-contribution-grid-snake.gif)
-
 <h2 align="center"> 📬 Get in touch 📬</h2>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/romainkl)
