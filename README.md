@@ -45,6 +45,7 @@ Who knew thesis defenses were tougher than coding marathons?
 
 
 <h2 align="center">🛠️ Some of my projects 🛠️</h2>
+
 [![Spilnota.xyz](https://img.shields.io/badge/-Spilnota.xyz-000000?style=for-the-badge&logo=ethereum&logoColor=6A4C93)](https://spilnota.xyz/)
 [![Dx25.com](https://img.shields.io/badge/-Dx25.com-000000?style=for-the-badge&logo=cardano&logoColor=00FFBD)](https://dx25.com/)
 [![Veax.com](https://img.shields.io/badge/-Veax.com-000000?style=for-the-badge&logo=polkadot&logoColor=E6007A)](https://veax.com/)
@@ -60,6 +61,7 @@ Who knew thesis defenses were tougher than coding marathons?
     <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=romakl&theme=react-dark&bg_color=20232a&hide_border=true" width="500px">
 </div>
+
 ![snake gif](https://github.com/romakl/romakl/blob/output/github-contribution-grid-snake.gif)
 
 <h2 align="center"> 📬 Get in touch 📬</h2>
