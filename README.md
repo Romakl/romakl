@@ -60,6 +60,11 @@ Who knew thesis defenses were tougher than coding marathons?
   <br>
     <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=romakl&theme=react-dark&bg_color=20232a&hide_border=true" width="500px">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Romakl/Romakl/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Romakl/Romakl/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Romakl/Romakl/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <h2 align="center"> 📬 Get in touch 📬</h2>
