@@ -1,7 +1,7 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=950&separator=%3C&lines=Hi%2C+my+name+is+Roman!%3CLike+a+true+Roman%2C+I+build+empires+%E2%80%93+digital+ones%3CSome+say+all+roads+lead+to+Rome;+I+say+all+blocks+lead+to+decentralization.%3CIn+Web3+we+trust%2C+until+the+gas+fees+are+too+much+%3CThey+told+me+Web3+could+be+a+scam%2C+so+I+decided+to+make+it+a+reality+%3CFrom+the+Forum+to+the+blockchain+%E2%80%93+Roman+by+heart" alt="Typing SVG" /></a>
 </h1>
-<hr>
+
 <p align="center">
 Hi! I'm Roman, your friendly neighborhood Computer Engineer and Software Developer, dialing in from the vibrant streets of Kyiv.
   <br>
@@ -18,8 +18,7 @@ Who knew thesis defenses were tougher than coding marathons?
   <br>
 📫 Reach out to me via the digital pigeon post at romakl55555@gmail.com or just send a good old-fashioned email.
 <h2 align="center">🔧 Technologies & Tools 🔧</h2>
-<hr>
-
+  
 [![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=Rust&logoColor=DE4C34)](https://www.rust-lang.org/)
 [![Actix](https://img.shields.io/badge/-Actix-000000?style=for-the-badge&logo=actix&logoColor=9D1B7F)](https://actix.rs/)
 [![Anchor](https://img.shields.io/badge/-Anchor-000000?style=for-the-badge&logo=anchor&logoColor=0B6FCF)](https://www.anchor-lang.com/)
@@ -46,8 +45,6 @@ Who knew thesis defenses were tougher than coding marathons?
 
 
 <h2 align="center">🛠️ Some of my projects 🛠️</h2>
-<hr>
-
 [![Spilnota.xyz](https://img.shields.io/badge/-Spilnota.xyz-000000?style=for-the-badge&logo=ethereum&logoColor=6A4C93)](https://spilnota.xyz/)
 [![Dx25.com](https://img.shields.io/badge/-Dx25.com-000000?style=for-the-badge&logo=cardano&logoColor=00FFBD)](https://dx25.com/)
 [![Veax.com](https://img.shields.io/badge/-Veax.com-000000?style=for-the-badge&logo=polkadot&logoColor=E6007A)](https://veax.com/)
@@ -55,7 +52,6 @@ Who knew thesis defenses were tougher than coding marathons?
 [![Nettium](https://img.shields.io/badge/-Nettium-000000?style=for-the-badge&logo=Adminer&logoColor=FF8800)](https://www.nettium.net/)
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<hr>
 <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img width=390 src="https://streak-stats.demolab.com/?user=romakl&theme=react&border=61dafb&hide_border=true" alt="romakl" />
@@ -64,10 +60,9 @@ Who knew thesis defenses were tougher than coding marathons?
     <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=romakl&theme=react-dark&bg_color=20232a&hide_border=true" width="500px">
 </div>
+![snake gif](https://github.com/romakl/romakl/blob/output/github-contribution-grid-snake.gif)
+
 <h2 align="center"> 📬 Get in touch 📬</h2>
-<hr>
-
-
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/romainkl)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/romain_kliuiev/)
