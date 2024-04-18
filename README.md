@@ -6,7 +6,7 @@
 Hi! I'm Roman, your friendly neighborhood Computer Engineer and Software Developer, dialing in from the vibrant streets of Kyiv.
   <br>
   <br>
-🔬 Currently tackling the intellectual gladiator arena known as a doctorate at the Institute of International Relations (IIR) in Kyiv. 
+🔬 Currently tackling the intellectual gladiator arena known as a bachelor's degree at the Institute of International Relations (IIR) in Kyiv. 
   <br>
 Who knew thesis defenses were tougher than coding marathons?
   <br>
